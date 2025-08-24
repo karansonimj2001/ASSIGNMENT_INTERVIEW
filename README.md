@@ -1,11 +1,11 @@
 
-🚀 My React + Vite Website
+## 🚀 My React + Vite Website
 
 This project is a modern React + Vite web application, built by Karan Soni as part of my development journey and showcased for interview evaluation.
 
 🛠️ Tech Stack
 
-## Frontend Framework: React
+Frontend Framework: React
 
 Build Tool: Vite
 
@@ -15,7 +15,7 @@ JavaScript Features: ES6+
 
 Version Control & Hosting: GitHub
 
-✨ Features
+## ✨ Features
 
 ⚡ Lightning-fast development powered by Vite’s HMR (Hot Module Replacement)
 
@@ -25,7 +25,7 @@ Version Control & Hosting: GitHub
 
 🔄 Easy scalability for production-ready applications
 
-📂 Project Setup
+## 📂 Project Setup
 
 Clone the repository and install dependencies:
 
@@ -34,21 +34,21 @@ cd ASSIGNMENT_INTERVIEW
 npm install
 
 
-Start development server:
+## Start development server:
 
 npm run dev
 
 
-Build for production:
+## Build for production:
 
 npm run build
 
 
-Preview production build:
+## Preview production build:
 
 npm run preview
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Karan Soni
 
@@ -60,7 +60,7 @@ Karan Soni
 
 🖥 GitHub: github.com/karansonimj2001
 
-👉 This website was fully developed and designed by me using the technologies listed above.
+## 👉 This website was fully developed and designed by me using the technologies listed above.
 
 
 
