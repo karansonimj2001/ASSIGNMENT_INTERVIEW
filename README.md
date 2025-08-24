@@ -5,7 +5,7 @@ This project is a modern React + Vite web application, built by Karan Soni as pa
 
 🛠️ Tech Stack
 
-Frontend Framework: React
+## Frontend Framework: React
 
 Build Tool: Vite
 
